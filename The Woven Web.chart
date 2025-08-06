@@ -9,7 +9,7 @@
   Genre = "rock"
   MediaType = "cd"
   MusicStream = "ANIMALS AS LEADERS - The Woven Web.mp3"
-  GuitarStream = "C:\Users\seanm\Downloads\Animals As Leaders - Woven Web\Animals As Leaders - Woven Web\guitar.ogg"
+  GuitarStream = "C:\Users\Downloads\Animals As Leaders - Woven Web\Animals As Leaders - Woven Web\guitar.ogg"
 }
 [SyncTrack]
 {
@@ -2355,3 +2355,4 @@
   433920 = N 68 0
   433920 = N 0 0
 }
+
